@@ -1,0 +1,10 @@
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\bin\Debug\renteBerekenen.exe.config
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\bin\Debug\renteBerekenen.exe
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\bin\Debug\renteBerekenen.pdb
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\obj\Debug\renteBerekenen.csproj.AssemblyReference.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\obj\Debug\renteBerekenen.Form1.resources
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\obj\Debug\renteBerekenen.Properties.Resources.resources
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\obj\Debug\renteBerekenen.csproj.GenerateResource.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\obj\Debug\renteBerekenen.csproj.CoreCompileInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\obj\Debug\renteBerekenen.exe
+S:\Code Files\learningCSharp\Docent Mudi\Opdrachten\abduzziwa\c#\Opdrachten\renteBerekenen\obj\Debug\renteBerekenen.pdb
