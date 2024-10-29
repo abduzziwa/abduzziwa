@@ -1,0 +1,10 @@
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\bin\Debug\2lesson.exe.config
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\bin\Debug\2lesson.exe
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\bin\Debug\2lesson.pdb
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\obj\Debug\2lesson.csproj.AssemblyReference.cache
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\obj\Debug\_2lesson.Form1.resources
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\obj\Debug\_2lesson.Properties.Resources.resources
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\obj\Debug\2lesson.csproj.GenerateResource.cache
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\obj\Debug\2lesson.csproj.CoreCompileInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\obj\Debug\2lesson.exe
+S:\Code Files\learningCSharp\Docent Mudi\2lesson\obj\Debug\2lesson.pdb

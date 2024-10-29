@@ -1,0 +1,16 @@
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10_8_2024.Form1.resources
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10-8-2024.csproj.GenerateResource.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10-8-2024.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10-8-2024.AssemblyInfoInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10-8-2024.AssemblyInfo.cs
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10-8-2024.csproj.CoreCompileInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\bin\Debug\net8.0-windows\Opdreach10-8-2024.exe
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\bin\Debug\net8.0-windows\Opdreach10-8-2024.deps.json
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\bin\Debug\net8.0-windows\Opdreach10-8-2024.runtimeconfig.json
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\bin\Debug\net8.0-windows\Opdreach10-8-2024.dll
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\bin\Debug\net8.0-windows\Opdreach10-8-2024.pdb
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10-8-2024.dll
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\refint\Opdreach10-8-2024.dll
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10-8-2024.pdb
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\Opdreach10-8-2024.genruntimeconfig.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdreach10-8-2024\obj\Debug\net8.0-windows\ref\Opdreach10-8-2024.dll

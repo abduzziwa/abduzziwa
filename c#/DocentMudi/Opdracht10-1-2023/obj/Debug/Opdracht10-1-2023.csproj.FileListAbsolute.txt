@@ -1,0 +1,10 @@
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\bin\Debug\Opdracht10-1-2023.exe.config
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\bin\Debug\Opdracht10-1-2023.exe
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\bin\Debug\Opdracht10-1-2023.pdb
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\obj\Debug\Opdracht10-1-2023.csproj.AssemblyReference.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\obj\Debug\Opdracht10_1_2023.Form1.resources
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\obj\Debug\Opdracht10_1_2023.Properties.Resources.resources
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\obj\Debug\Opdracht10-1-2023.csproj.GenerateResource.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\obj\Debug\Opdracht10-1-2023.csproj.CoreCompileInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\obj\Debug\Opdracht10-1-2023.exe
+S:\Code Files\learningCSharp\Docent Mudi\Opdracht10-1-2023\obj\Debug\Opdracht10-1-2023.pdb

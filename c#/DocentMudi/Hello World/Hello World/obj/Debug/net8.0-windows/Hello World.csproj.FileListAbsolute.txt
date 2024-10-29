@@ -1,0 +1,17 @@
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello_World.Form1.resources
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello_World.Properties.Resources.resources
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello World.csproj.GenerateResource.cache
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello World.AssemblyInfoInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello World.AssemblyInfo.cs
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello World.csproj.CoreCompileInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\bin\Debug\net8.0-windows\Hello World.exe
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\bin\Debug\net8.0-windows\Hello World.deps.json
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\bin\Debug\net8.0-windows\Hello World.runtimeconfig.json
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\bin\Debug\net8.0-windows\Hello World.dll
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\bin\Debug\net8.0-windows\Hello World.pdb
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello World.dll
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\refint\Hello World.dll
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello World.pdb
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\Hello World.genruntimeconfig.cache
+S:\Code Files\learningCSharp\Docent Mudi\Hello World\Hello World\obj\Debug\net8.0-windows\ref\Hello World.dll

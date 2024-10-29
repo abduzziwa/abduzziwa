@@ -1,0 +1,11 @@
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\bin\Debug\Getal1en2.exe.config
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\bin\Debug\Getal1en2.exe
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\bin\Debug\Getal1en2.pdb
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\obj\Debug\Getal1en2.csproj.AssemblyReference.cache
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\obj\Debug\Getal1en2.Form1.resources
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\obj\Debug\Getal1en2.Properties.Resources.resources
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\obj\Debug\Getal1en2.csproj.GenerateResource.cache
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\obj\Debug\Getal1en2.csproj.CoreCompileInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\obj\Debug\Getal1en2.exe
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\obj\Debug\Getal1en2.pdb
+S:\Code Files\learningCSharp\Docent Mudi\Getal1en2\obj\Debug\Getal1en2.Form2.resources

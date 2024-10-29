@@ -1,0 +1,10 @@
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+S:\Code Files\learningCSharp\Docent Mudi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

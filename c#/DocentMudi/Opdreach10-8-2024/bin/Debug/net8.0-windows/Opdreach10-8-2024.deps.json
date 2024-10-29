@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Opdreach10-8-2024/1.0.0": {
+        "runtime": {
+          "Opdreach10-8-2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opdreach10-8-2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
