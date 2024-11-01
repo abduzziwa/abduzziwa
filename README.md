@@ -11,7 +11,7 @@
 - 🤝 Open to collaborating on challenging projects that push boundaries
 
 ## 💪 What I Bring to the Table
-- 🤖 Expertise in AI/ML model development and deployment
+- 🤖 Cuurently learning AI/ML model development and deployment
 - 📊 Strong project management skills with focus on efficient delivery
 - 🛠️ Experience in building automated solutions for real-world problems
 - 🔄 Agile methodology practitioner
