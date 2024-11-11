@@ -1,0 +1,15 @@
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.exe
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.deps.json
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.runtimeconfig.json
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.dll
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.pdb
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfoInputs.cache
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfo.cs
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.csproj.CoreCompileInputs.cache
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.sourcelink.json
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.dll
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\refint\DataStructures.dll
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.pdb
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.genruntimeconfig.cache
+S:\Code Files\abduzziwa\c#\DataStructures\DataStructures\obj\Debug\net8.0\ref\DataStructures.dll
